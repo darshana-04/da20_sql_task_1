@@ -1,0 +1,11 @@
+emp_id,emp_name,email,mobile_no,department,salary
+11,John Doe,john.doee@example.com,5551234567,Finance,65000
+12,Jane Smith,jane.smith@example.com,5559876543,HR,60000
+3,Michael Brown,michael.brown@example.com,5552345678,IT,72000
+4,Linda Johnson,linda.johnson@example.com,5553456789,Marketing,58000
+5,David Lee,david.lee@example.com,5554567890,Sales,63000
+6,Susan Clark,susan.clark@example.com,5555678901,Finance,67000
+7,Robert Wilson,robert.wilson@example.com,5556789012,IT,75000
+8,Patricia Miller,patricia.miller@example.com,5557890123,HR,61000
+9,James Davis,james.davis@example.com,5558901234,Marketing,59000
+10,Barbara Garcia,barbara.garcia@example.com,5559012345,Sales,64000
