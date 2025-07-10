@@ -1,0 +1,12 @@
+id,name,address,email,contact_no,student_count,establishment_date,dept_count,prof_count
+13,Sunrise University,789 Sunrise Ave,sunrise@university.edu,555-9012,1800,01-09-1985,12,110
+14,Maplewood College,321 Maple St,maplewood@college.edu,555-3456,700,20-01-2005,5,40
+17,Hilltop Institute,159 Hilltop Ln,hilltop@institute.edu,555-6789,850,22-07-2003,7,55
+18,Silverline College,753 Silverline Rd,silverline@college.edu,555-4321,600,18-05-2012,3,25
+20,Central Academy,951 Central St,central@academy.edu,555-3210,400,14-09-2015,2,20
+1,Sunrise College,"123 Main St, Cityville",info@sunrisecollege.edu,contact_no,1200,15-08-2001,8,60
+19,Westview University,852 Westview Ave,westview@university.edu,555-8765,2000,08-07-2025,10,95
+15,Lakeview Academy,654 Lakeview Dr,lakeview@academy.edu,555-7890,123123,08-07-2025,4,30
+16,Oakridge University,987 Oakridge Blvd,oakridge@university.edu,66666666,2200,09-07-2025,15,150
+11,Greenfield College,123 Main St,greenfield@college.edu,555-1234,1200,15-08-2001,8,23
+12,Riverside Institute,456 River Rd,riverside@institute.edu,555-5678,950,10-06-1998,6,23
